@@ -100,7 +100,7 @@ Configured:
 
 Validated the configuration and created the virtual machine.
 
-![Review and Create](./screenshots/review_and_create_vm.png)
+![Review and Create](./screenshots/review_and_create.png)
 
 ---
 
